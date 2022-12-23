@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.BackGround {
+  width: 1920px;
+  height: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.login {
+  width: 600px;
+  height: 400px;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  background-color: aqua;
+  padding-top: 20px;
+}
+
+.id {
+  width: 570px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  background-color: black;
+}
+.input-id {
+  width: 550px;
+  height: 70px;
+  margin-top: 20px;
+  margin-left: 10px;
+  border-radius: 10px;
+  padding-left: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 55px;
+  color: tomato;
+}
+.input-pw {
+  width: 550px;
+  height: 70px;
+  margin-top: 20px;
+  margin-left: 10px;
+  border-radius: 10px;
+  padding-left: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 55px;
+  color: tomato;
+}
+
+
+.anoter {
+  width: 570px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  background-color: black;
+  margin-top: 15px;
+  position: relative;
+}
+.login-btn {
+  position: absolute;
+  border-radius: 15px;
+  width: 275px;
+  height: 115px;
+  left: 15px;
+  top: 17px;
+  background-color: white;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 115px;
+}
+.pw-btn {
+  position: absolute;
+  border-radius: 15px;
+  width: 250px;
+  height: 55px;
+  right: 15px;
+  top: 15px;
+  background-color: white;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 55px;
+}
+.regist-btn {
+  position: absolute;
+  border-radius: 15px;
+  width: 250px;
+  height: 55px;
+  right: 15px;
+  bottom: 15px;
+  background-color: white;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 55px;
+}
